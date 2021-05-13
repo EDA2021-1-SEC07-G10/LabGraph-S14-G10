@@ -2,6 +2,6 @@
 
 Integrantes:
 
-- María Paula Alméciga Moreno, m.almeciga@uniandes.edu.co, 202023369 (Estudiante B)
+- María Paula Alméciga Moreno, m.almeciga@uniandes.edu.co, 202023369
 
-- Andrés Felipe Vargas Cuadros, af.vargasc1@uniandes.edu.co, 202013817 (Estudiante A)
+- Andrés Felipe Vargas Cuadros, af.vargasc1@uniandes.edu.co, 202013817
